@@ -5,10 +5,18 @@ body{
     margin: 0;
     padding: 0;
 }
+#cabecera, #lagline{
+    background: red;
+    box-shadow: 0px 5px 50px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    margin: 0;
+}
 #container{
     width: 60%;
     padding: 10px;
-    border: 1px solid blue;
+    border: 1px solid red;
     margin: 0 auto;
 }
 #container h1{
