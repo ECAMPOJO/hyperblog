@@ -1,2 +1,4 @@
+
 cursos  profesional git y gitbub 2020
+agregando colaboradores al proyecto hyperblog
 trabajando desde casa por la cuarentena
